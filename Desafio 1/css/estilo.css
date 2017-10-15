@@ -1,0 +1,42 @@
+/*
+*
+* @author: luis Daniel Assulfi
+* @version: 0.1
+*/
+
+/* Imagens ==================================================================================================*/
+#galeria-foto{
+	background:#FFFFFF;
+	padding:5px;
+	margin:5px;
+}
+
+.imagem-principal .img-responsive{
+    margin: 0, auto;
+}
+
+/* Backgorund ===============================================================================================*/
+body{
+	background-color="white"	
+}
+
+/* Barra de navegação =======================================================================================*/
+
+.img-logo{
+	height:40px;
+	width:132px;
+	display:block;
+	background:url('imagens/imagem6.png') no-repeat;
+	background-size:contain;
+	color:transparent;
+}
+
+/* Contatos =================================================================================================*/
+.facebook-logo{
+	width:8px;
+	height:8px;
+	background:url('imagens/facebook.jpg');
+	background-size:contain;
+	color:transparent;
+}
+
